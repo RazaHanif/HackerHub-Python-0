@@ -4,27 +4,28 @@
 
 ## 🧃 Week 1
 
-### Class 1: Welcome + Setup + Learning to Learn  
+### Class 1: Welcome + Setup
 **🧠 Lecture Focus:**  
 - What is programming? What is Python?  
-- Mindset: curiosity, problem-solving, frustration-tolerance  
+- How to learn
 - Installing Python + VSCode  
 - Terminal basics, saving/running `.py` files  
 - `print()`, syntax basics  
 
 ---
 
-### Class 2: Inputs & Strings (No f-strings yet)  
+### Class 2: Inputs & Strings
 **🧠 Lecture Focus:**  
 - `input()`, variables  
 - Basic string concatenation  
+- f-strings
 - Intro to user interaction  
 
 ---
 
 ## 🧃 Week 2
 
-### Class 3: Conditionals (If/Else Logic)  
+### Class 3: Conditionals
 **🧠 Lecture Focus:**  
 - `if`, `elif`, `else`  
 - Comparisons (`==`, `!=`, `<`, `>`)  
@@ -42,7 +43,7 @@
 
 ## 🧃 Week 3
 
-### Class 5: While Loops  
+### Class 5: Loops  
 **🧠 Lecture Focus:**  
 - `while` loops  
 - `break`, `continue`  
@@ -50,7 +51,7 @@
 
 ---
 
-### Class 6: For Loops + Range  
+### Class 6: Loops Continued
 **🧠 Lecture Focus:**  
 - `for` loops  
 - `range()` counting  
@@ -60,14 +61,14 @@
 
 ## 🧃 Week 4
 
-### Class 7: Functions (Intro)  
+### Class 7: Functions
 **🧠 Lecture Focus:**  
 - Defining and calling functions  
 - Parameters and basic structure  
 
 ---
 
-### Class 8: Functions with Return  
+### Class 8: Functions Continued
 **🧠 Lecture Focus:**  
 - `return` values  
 - Reusing returned values  
@@ -76,7 +77,7 @@
 
 ## 🧃 Week 5
 
-### Class 9: Lists + Loops (Combined Class)  
+### Class 9: Data Structures
 **🧠 Lecture Focus:**  
 - Creating lists  
 - Accessing + modifying items  
@@ -84,7 +85,7 @@
 
 ---
 
-### Class 10: Dictionaries  
+### Class 10: Data Structures Continued
 **🧠 Lecture Focus:**  
 - Key-value pairs  
 - Adding, changing, deleting values  
@@ -94,7 +95,7 @@
 
 ## 🧃 Week 6
 
-### Class 11: Imports, Libraries, and pip  
+### Class 11: Libraries + Modules + pip
 **🧠 Lecture Focus:**  
 - What is a module?  
 - Using built-in libraries: `random`, `time`, `math`  
